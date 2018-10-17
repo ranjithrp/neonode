@@ -1,0 +1,4 @@
+Event JSON = { "name" : "Demo Event", "Description" : "Test Description", "startDate" : 1468953000, "endDate" : 1469039400, "tags" : ["First", "Trial", "Demo"], "location" : ["12.7","77.6"], "city":"Bengaluru", "fnb" : true };
+Track JSON  { "name": "Track1"}
+Session JSON = { "title" : "SessionTitle", "location" : "ConfA", "Description" : "SessionDescription", "TodoList" : ["A", "B", "C"], "trackId" : 13,"eventId":14, "userId":20}
+User JSON = {"name" : "User1", "linkedInHandle" : "LinkedIn1", "twitterHandle" :"Twitter1"}
